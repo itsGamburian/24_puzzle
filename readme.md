@@ -9,4 +9,4 @@ java Driver
 ### The only dependency to run the app is Java8 JRE (Java 1.8 Java Runtime Environment).
 
 ## Below is a live screenshot of the game
-[Live Screenshot]
+https://user-images.githubusercontent.com/16968271/39058336-5ce6b6b2-4470-11e8-8145-d93e3ae8ce1a.png
