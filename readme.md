@@ -1,5 +1,5 @@
-## First clone the repo.
-# From there, the project can be opened in IntelliJ IDEA and ran from there or can change directory into the directory, launching a bash terminal or windows terminal in the main "24_puzzle" directory and executing the 2 following commands. 
+# First clone the repo.
+## From there, the project can be opened in IntelliJ IDEA and ran from there or can change directory into the directory, launching a bash terminal or windows terminal in the main "24_puzzle" directory and executing the 2 following commands. 
 
 ```bash
 cd ./out/production/classes/
