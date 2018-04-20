@@ -6,4 +6,7 @@ cd ./out/production/classes/
 java Driver 
 ```
 
-The only dependency to run the app is Java8 JRE (Java 1.8 Java Runtime Environment).
+### The only dependency to run the app is Java8 JRE (Java 1.8 Java Runtime Environment).
+
+## Below is a live screenshot of the game
+![Live Screenshot]
